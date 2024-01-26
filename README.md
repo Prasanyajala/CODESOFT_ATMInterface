@@ -21,3 +21,5 @@ balance.
 of their transactions.
 
 * This is how it runs👀
+https://github.com/Prasanyajala/CODESOFT_ATMInterface/assets/153526672/f970afe7-ed09-4724-93b5-c4a9b684be77
+
